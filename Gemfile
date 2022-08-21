@@ -67,7 +67,7 @@ gem 'carrierwave', '~> 1.2', '>= 1.2.3'
 # - 画像をリサイズしたりコンバートする
 gem 'mini_magick', '~> 4.9', '>= 4.9.2'
 # - クラウドプロバイダを利用可能にする
-gem 'fog', '~> 2.0'
+gem 'fog-aws'
 
 # - Bootstrap4
 gem 'bootstrap', '~> 4.0.0.beta2.1'
