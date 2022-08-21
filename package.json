@@ -1,5 +1,7 @@
 {
   "name": "serif",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  }
 }
